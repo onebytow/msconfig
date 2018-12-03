@@ -11,7 +11,7 @@ spring:
   application:
     name: userservice
   datasource:
-    url: jdbc:mysql://localhost/mydb
+    url: jdbc:mysql://localhost/unit02
     password: ps123456
     driver-class-name: com.mysql.jdbc.Driver
     username: root
